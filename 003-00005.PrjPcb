@@ -124,37 +124,29 @@ DocumentUniqueId=
 [ProjectVariant1]
 Description=003-00005
 AllowFabrication=0
-ParameterCount=6
+ParameterCount=5
 VariationCount=0
 ParamVariationCount=0
 
 [Parameter2_1]
-Name=
-Value=
-
-[Parameter2_2]
 Name=AssemblyDrawingNumber
 Value=001-00005-ASY
 
-[Parameter2_3]
+[Parameter2_2]
 Name=AssemblyDrawingRevision
 Value=A
 
-[Parameter2_4]
+[Parameter2_3]
 Name=DesignTitle
 Value=Enceladus, 0,1" breakout board for Titian
 
-[Parameter2_5]
+[Parameter2_4]
 Name=SchematicDrawingNumber
 Value=001-00005-SCH
 
-[Parameter2_6]
+[Parameter2_5]
 Name=SchematicDrawingRevision
 Value=A
-
-[GeneratedDocument1]
-DocumentPath=Output\Design Rule Check - 003-00005.html
-DItemRevisionGUID=
 
 [Parameter1]
 Name=copyrightDate
